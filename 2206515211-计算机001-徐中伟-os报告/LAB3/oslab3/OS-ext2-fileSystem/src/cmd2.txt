@@ -1,0 +1,5 @@
+mkdir xzw2
+cd xzw2
+touch xzw2
+write xzw2 26
+cd ..
